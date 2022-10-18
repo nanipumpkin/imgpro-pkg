@@ -1,3 +1,14 @@
+Metadata-Version: 2.1
+Name: imgpro
+Version: 0.0.1
+Summary: Image processing tool package
+Home-page: https://github.com/nanipumpkin/imgpro-pkg
+Author: naniavalone
+Author-email: marianne.avalone@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.9
+
 # imgpro
 
 **Description**
@@ -33,3 +44,4 @@ Marianne Costa Avalone
 
 ## License
 [MIT](https://chosealicense.com/licenses/mit/)
+
